@@ -1,15 +1,16 @@
-package Lab2_maindriver;
+package Lab3_maindriver;
 
 import java.util.Scanner;
+
+import Lab3.Doctor;
+import Lab3.EmergencyDoctor;
+import Lab3.InvalidPersonException;
+import Lab3.Nurse;
+import Lab3.Person;
+import Lab3.Surgeon;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
-import Lab2.Doctor;
-import Lab2.EmergencyDoctor;
-import Lab2.InvalidPersonException;
-import Lab2.Nurse;
-import Lab2.Person;
-import Lab2.Surgeon;
 import java.util.Scanner;
 import java.util.Scanner;
 
